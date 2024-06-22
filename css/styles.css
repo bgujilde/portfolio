@@ -1,0 +1,48 @@
+h1 {
+    font-size: 5rem;
+    font-weight: bolder;
+}
+
+
+.navbar {
+    padding:1% 15%;
+}
+
+#intro {
+    padding: 5% 15%;
+}
+
+.intro-image {
+    width: 100%;
+}
+
+#education {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.section-title {
+    font-size: 5rem;
+    font-weight: 900;
+    margin: 2% 2% 5%;
+}
+
+.section-subtitle {
+    font-size: 3rem;
+    font-weight: 700;
+
+}
+
+#work-experience {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#skills {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+}
